@@ -21,3 +21,8 @@ dorp database if exists books;
 ## 表
 查看表
 show tables;
+
+# 再次学习
+
+#path
+https://www.bilibili.com/video/BV1Kr4y1i7ru?p=4&vd_source=f400375523095ad99c935677451069db
