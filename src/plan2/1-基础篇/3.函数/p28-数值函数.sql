@@ -12,7 +12,7 @@ select ceil(1.1)
 
 -- mod(x/y)
 返回 x/y 的摸
-
+select mod(6, 5)
 
 
 -- rand()

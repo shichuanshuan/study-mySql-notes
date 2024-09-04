@@ -16,7 +16,7 @@ select ifnull(null, 'default');
 
 
 
--- case where [val1] then[res1]... else[default] end
+-- case when [val1] then[res1]... else[default] end
 如果 val1 为 true，返回 res1，...否则返回 default 默认值
 
 示例：
